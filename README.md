@@ -1,21 +1,25 @@
 # ITArchitecture
 IASA Information Technology Architecture Competition
 
+## Problem Statement
+
+Paragraph summarizing problem statement
+
+Included Documents: 
+- Welcome Packet
+- Problem Description
+
 ## Deliverables
-Business Requirements Document:
 
-Conceptual Architecture:
+Paragraph summarizing the deliverables
 
-Information Architecture:
-
-Software Architecture:
-
-Security Architecture:
-
-User Interface Architecture:
-
-User Experience Architecture:
-
-Deployment Architecture:
-
-Technology Stack:
+Included Documents:
+- Business Requirements Document:
+- Conceptual Architecture:
+- Information Architecture:
+- Software Architecture:
+- Security Architecture:
+- User Interface Architecture:
+- User Experience Architecture:
+- Deployment Architecture:
+- Technology Stack:
