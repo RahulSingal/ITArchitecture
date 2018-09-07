@@ -6,8 +6,8 @@ IASA Information Technology Architecture Competition
 Paragraph summarizing problem statement
 
 Included Documents: 
-- Welcome Packet:
-- Problem Description:
+- Welcome Packet
+- Problem Description
 
 ## Deliverables
 
